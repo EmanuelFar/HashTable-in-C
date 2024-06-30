@@ -27,4 +27,3 @@ It uses double hashing for collision resolution and bitwise flags for efficient 
   - `HTsize(table)`:               Returns the current number of keys in the HashTable.
   - `HTincrement(table, string)`:  Increments the value associated with a key by 1.
   - `HTcontains(table, string)`:   Checks if a key exists in the HashTable.
-  - `HTkeys(table)`:               Returns an array of all existing keys.
